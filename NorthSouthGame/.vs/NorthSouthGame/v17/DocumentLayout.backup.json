@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\NorthSouthGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D633C6C4-89A6-4DC9-8476-68CA497BCC1E}|Game\\Game.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\NorthSouthGame\\Game\\GameW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D633C6C4-89A6-4DC9-8476-68CA497BCC1E}|Game\\Game.vcxproj|solutionrelative:Game\\GameW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameW.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\NorthSouthGame\\Game\\GameW.cpp",
+              "RelativeDocumentMoniker": "Game\\GameW.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\NorthSouthGame\\Game\\GameW.cpp",
+              "RelativeToolTip": "Game\\GameW.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAADwv5YAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T02:48:22.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

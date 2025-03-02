@@ -1,0 +1,13 @@
+﻿  SoloTests.cpp
+D:\GitHub CG Projects\CGS-Term1\Singlework\SoloTests.cpp(17,19): error C2086: 'std::random_device rd': redefinition
+      D:\GitHub CG Projects\CGS-Term1\Singlework\SoloTests.cpp(8,16):
+      see declaration of 'rd'
+  
+D:\GitHub CG Projects\CGS-Term1\Singlework\SoloTests.cpp(18,13): error C2374: 'gen': redefinition; multiple initialization
+      D:\GitHub CG Projects\CGS-Term1\Singlework\SoloTests.cpp(9,10):
+      see declaration of 'gen'
+  
+D:\GitHub CG Projects\CGS-Term1\Singlework\SoloTests.cpp(18,13): error C2086: 'std::mt19937 gen': redefinition
+      D:\GitHub CG Projects\CGS-Term1\Singlework\SoloTests.cpp(9,10):
+      see declaration of 'gen'
+  

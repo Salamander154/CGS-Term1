@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E458CA-FE19-40FA-A27E-B2CF183B1F3C}|Lesson 2.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\NorthSouth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6E458CA-FE19-40FA-A27E-B2CF183B1F3C}|Lesson 2.vcxproj|solutionrelative:NorthSouth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7B58CA-3E7D-4EC2-925C-E73359157DFB}|..\\Singlework\\Singlework.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Singlework\\SoloTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432151EC-883B-4E16-94EE-F88F18BBD0C0}|..\\BETA TESTS\\BETA TESTS.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\BETA TESTS\\CopyAndPaste.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13089DCB-85E5-4988-8997-CC3B48A65EB6}|..\\New updates\\New updates.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\New updates\\UnoffUpdates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoloTests.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Singlework\\SoloTests.cpp",
+              "RelativeDocumentMoniker": "..\\Singlework\\SoloTests.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Singlework\\SoloTests.cpp",
+              "RelativeToolTip": "..\\Singlework\\SoloTests.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T01:01:20.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnoffUpdates.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\New updates\\UnoffUpdates.cpp",
+              "RelativeDocumentMoniker": "..\\New updates\\UnoffUpdates.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\New updates\\UnoffUpdates.cpp",
+              "RelativeToolTip": "..\\New updates\\UnoffUpdates.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T00:57:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopyAndPaste.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\BETA TESTS\\CopyAndPaste.cpp",
+              "RelativeDocumentMoniker": "..\\BETA TESTS\\CopyAndPaste.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\BETA TESTS\\CopyAndPaste.cpp",
+              "RelativeToolTip": "..\\BETA TESTS\\CopyAndPaste.cpp",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAAB0BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T00:30:47.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthSouth.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\NorthSouth.cpp",
+              "RelativeDocumentMoniker": "NorthSouth.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\NorthSouth.cpp",
+              "RelativeToolTip": "NorthSouth.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T00:06:51.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  GameW.cpp
+D:\GitHub CG Projects\CGS-Term1\NorthSouthGame\Game\GameW.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open D:\GitHub CG Projects\CGS-Term1\NorthSouthGame\x64\Debug\Game.exe for writing
