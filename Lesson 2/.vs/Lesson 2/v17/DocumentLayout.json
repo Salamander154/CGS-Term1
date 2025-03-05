@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95B87616-6279-47E8-ACCA-15D50D705AAB}|..\\Updates\\Updates.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Updates\\UpdateGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6E458CA-FE19-40FA-A27E-B2CF183B1F3C}|Lesson 2.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\NorthSouth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E6E458CA-FE19-40FA-A27E-B2CF183B1F3C}|Lesson 2.vcxproj|solutionrelative:NorthSouth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "UpdateGame.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Updates\\UpdateGame.cpp",
+              "RelativeDocumentMoniker": "..\\Updates\\UpdateGame.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Updates\\UpdateGame.cpp",
+              "RelativeToolTip": "..\\Updates\\UpdateGame.cpp",
+              "ViewState": "AgIAABUBAAAAAAAAAADwvzUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T23:50:08.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SoloTests.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Singlework\\SoloTests.cpp",
               "RelativeDocumentMoniker": "..\\Singlework\\SoloTests.cpp",
@@ -39,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UnoffUpdates.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\New updates\\UnoffUpdates.cpp",
               "RelativeDocumentMoniker": "..\\New updates\\UnoffUpdates.cpp",
@@ -51,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CopyAndPaste.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\BETA TESTS\\CopyAndPaste.cpp",
               "RelativeDocumentMoniker": "..\\BETA TESTS\\CopyAndPaste.cpp",
@@ -63,13 +79,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NorthSouth.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\NorthSouth.cpp",
               "RelativeDocumentMoniker": "NorthSouth.cpp",
               "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 2\\NorthSouth.cpp",
               "RelativeToolTip": "NorthSouth.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABICAAAAAAAAAADwvy8CAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-01T00:06:51.915Z",
               "EditorCaption": ""
