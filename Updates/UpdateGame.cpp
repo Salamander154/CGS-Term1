@@ -32,6 +32,7 @@ int main()
     int damage;
     int Edamage;
     int Aattack;
+    Edamage = 0;
     health = 25;
     strong = 0;
     smart = 0;
@@ -184,11 +185,11 @@ fight:
         }
         //enemy fights back
     HugoA1:
+        Edamage = (rand() % Aattack + 5) - (smart * 2);
         if (Edamage <= 0)
         {
             goto HugoA1;
         }
-        Edamage = (rand() % Aattack + 5) - (smart * 2);
         cout << "The enemy fights back and deals " << Edamage << " damage to you. \n";
         health = health - Edamage;
         cout << "You have " << health << "left. \n";

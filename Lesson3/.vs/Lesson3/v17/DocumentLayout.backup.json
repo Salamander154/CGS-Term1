@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|solutionrelative:Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|solutionrelative:OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D42585C-12CE-46B3-B029-F97130B12D7B}|FiveNumbers\\FiveNumbers.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\FiveNumbers\\FiveNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D42585C-12CE-46B3-B029-F97130B12D7B}|FiveNumbers\\FiveNumbers.vcxproj|solutionrelative:FiveNumbers\\FiveNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecursiveDiamond.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp",
+              "RelativeDocumentMoniker": "Diamond\\RecursiveDiamond.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp",
+              "RelativeToolTip": "Diamond\\RecursiveDiamond.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T20:05:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OddorEven.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp",
+              "RelativeDocumentMoniker": "OddEven\\OddorEven.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp",
+              "RelativeToolTip": "OddEven\\OddorEven.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T19:04:59.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiveNum.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\FiveNumbers\\FiveNum.cpp",
+              "RelativeDocumentMoniker": "FiveNumbers\\FiveNum.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\FiveNumbers\\FiveNum.cpp",
+              "RelativeToolTip": "FiveNumbers\\FiveNum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T19:39:26.231Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

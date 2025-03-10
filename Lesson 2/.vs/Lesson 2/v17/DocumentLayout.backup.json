@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "..\\Updates\\UpdateGame.cpp",
               "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Updates\\UpdateGame.cpp",
               "RelativeToolTip": "..\\Updates\\UpdateGame.cpp",
-              "ViewState": "AgIAABUBAAAAAAAAAADwvzUBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-05T23:50:08.437Z",
               "EditorCaption": ""
@@ -87,8 +91,7 @@
               "RelativeToolTip": "NorthSouth.cpp",
               "ViewState": "AgIAABICAAAAAAAAAADwvy8CAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T00:06:51.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T00:06:51.915Z"
             }
           ]
         }

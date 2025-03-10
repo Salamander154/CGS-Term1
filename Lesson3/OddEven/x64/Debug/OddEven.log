@@ -1,0 +1,3 @@
+﻿  OddorEven.cpp
+D:\GitHub CG Projects\CGS-Term1\Lesson3\OddEven\OddorEven.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OddEven.vcxproj -> D:\GitHub CG Projects\CGS-Term1\Lesson3\x64\Debug\OddEven.exe
