@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{FE5A66B2-DD74-41FD-9DBE-BC93F291E19B}|TicTac\\TicTac.vcxproj|solutionrelative:TicTac\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|solutionrelative:OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEAFE627-4D7F-4C01-8FD2-94CCEBC79A4A}|MenuProd\\MenuProd.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AEAFE627-4D7F-4C01-8FD2-94CCEBC79A4A}|MenuProd\\MenuProd.vcxproj|solutionrelative:MenuProd\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|solutionrelative:OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -44,20 +44,20 @@
               "RelativeDocumentMoniker": "TicTac\\TicTacToe.cpp",
               "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\TicTac\\TicTacToe.cpp",
               "RelativeToolTip": "TicTac\\TicTacToe.cpp",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T01:00:50.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Menu.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp",
               "RelativeDocumentMoniker": "MenuProd\\Menu.cpp",
-              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp",
-              "RelativeToolTip": "MenuProd\\Menu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp*",
+              "RelativeToolTip": "MenuProd\\Menu.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T00:59:13.518Z",
               "EditorCaption": ""
@@ -72,12 +72,11 @@
               "RelativeToolTip": "Diamond\\RecursiveDiamond.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-09T20:05:04.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T20:05:04.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OddorEven.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp",
               "RelativeDocumentMoniker": "OddEven\\OddorEven.cpp",
@@ -85,8 +84,7 @@
               "RelativeToolTip": "OddEven\\OddorEven.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-09T19:04:59.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:04:59.45Z"
             },
             {
               "$type": "Document",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "FiveNumbers\\FiveNum.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-08T19:39:26.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T19:39:26.231Z"
             }
           ]
         }
