@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|solutionrelative:Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE5A66B2-DD74-41FD-9DBE-BC93F291E19B}|TicTac\\TicTac.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\TicTac\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FE5A66B2-DD74-41FD-9DBE-BC93F291E19B}|TicTac\\TicTac.vcxproj|solutionrelative:TicTac\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F1640980-3D2B-42AA-AE40-B5C4C4094D66}|OddEven\\OddEven.vcxproj|solutionrelative:OddEven\\OddorEven.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5C5C80DF-885C-4464-BC9D-125A085FF2BC}|Diamond\\Diamond.vcxproj|solutionrelative:Diamond\\RecursiveDiamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D42585C-12CE-46B3-B029-F97130B12D7B}|FiveNumbers\\FiveNumbers.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\FiveNumbers\\FiveNum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,45 +38,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TicTacToe.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\TicTac\\TicTacToe.cpp",
               "RelativeDocumentMoniker": "TicTac\\TicTacToe.cpp",
               "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\TicTac\\TicTacToe.cpp",
               "RelativeToolTip": "TicTac\\TicTacToe.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-11T01:00:50.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Menu.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp",
               "RelativeDocumentMoniker": "MenuProd\\Menu.cpp",
-              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp*",
-              "RelativeToolTip": "MenuProd\\Menu.cpp*",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\MenuProd\\Menu.cpp",
+              "RelativeToolTip": "MenuProd\\Menu.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-11T00:59:13.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T00:59:13.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RecursiveDiamond.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp",
               "RelativeDocumentMoniker": "Diamond\\RecursiveDiamond.cpp",
               "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\Diamond\\RecursiveDiamond.cpp",
               "RelativeToolTip": "Diamond\\RecursiveDiamond.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-09T20:05:04.65Z"
+              "WhenOpened": "2025-03-09T20:05:04.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "OddorEven.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson3\\OddEven\\OddorEven.cpp",
               "RelativeDocumentMoniker": "OddEven\\OddorEven.cpp",
