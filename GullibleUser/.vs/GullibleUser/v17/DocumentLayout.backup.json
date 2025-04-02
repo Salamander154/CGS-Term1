@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{2A6C8436-9318-4C26-94F6-5A11105B212E}|AlphabetThing\\AlphabetThing.vcxproj|solutionrelative:AlphabetThing\\Alphabet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D31EA17-5DA7-4560-AE23-368CE6E83B34}|Arrary\\Arrary.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Arrary\\ArrayStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2D31EA17-5DA7-4560-AE23-368CE6E83B34}|Arrary\\Arrary.vcxproj|solutionrelative:Arrary\\ArrayStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33E6B5E7-4A87-475C-8123-B04C1A918BDB}|Lesson 4\\Lesson 4.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Lesson 4\\Gulliable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{33E6B5E7-4A87-475C-8123-B04C1A918BDB}|Lesson 4\\Lesson 4.vcxproj|solutionrelative:Lesson 4\\Gulliable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D31EA17-5DA7-4560-AE23-368CE6E83B34}|Arrary\\Arrary.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Arrary\\ArrayStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D31EA17-5DA7-4560-AE23-368CE6E83B34}|Arrary\\Arrary.vcxproj|solutionrelative:Arrary\\ArrayStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +34,16 @@
               "Title": "Alphabet.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\AlphabetThing\\Alphabet.cpp",
               "RelativeDocumentMoniker": "AlphabetThing\\Alphabet.cpp",
-              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\AlphabetThing\\Alphabet.cpp*",
-              "RelativeToolTip": "AlphabetThing\\Alphabet.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\AlphabetThing\\Alphabet.cpp",
+              "RelativeToolTip": "AlphabetThing\\Alphabet.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-17T02:39:27.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArrayStats.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Arrary\\ArrayStats.cpp",
               "RelativeDocumentMoniker": "Arrary\\ArrayStats.cpp",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "Arrary\\ArrayStats.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-16T01:57:29.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T01:57:29.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Gulliable.cpp",
               "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Lesson 4\\Gulliable.cpp",
               "RelativeDocumentMoniker": "Lesson 4\\Gulliable.cpp",

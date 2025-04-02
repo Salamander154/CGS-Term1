@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrary", "Arrary\Arrary.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AlphabetThing", "AlphabetThing\AlphabetThing.vcxproj", "{2A6C8436-9318-4C26-94F6-5A11105B212E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Maze", "Maze\Maze.vcxproj", "{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2A6C8436-9318-4C26-94F6-5A11105B212E}.Release|x64.Build.0 = Release|x64
 		{2A6C8436-9318-4C26-94F6-5A11105B212E}.Release|x86.ActiveCfg = Release|Win32
 		{2A6C8436-9318-4C26-94F6-5A11105B212E}.Release|x86.Build.0 = Release|Win32
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Debug|x64.ActiveCfg = Debug|x64
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Debug|x64.Build.0 = Debug|x64
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Debug|x86.Build.0 = Debug|Win32
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Release|x64.ActiveCfg = Release|x64
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Release|x64.Build.0 = Release|x64
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Release|x86.ActiveCfg = Release|Win32
+		{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

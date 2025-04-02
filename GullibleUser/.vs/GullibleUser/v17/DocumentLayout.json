@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A6C8436-9318-4C26-94F6-5A11105B212E}|AlphabetThing\\AlphabetThing.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\AlphabetThing\\Alphabet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2A6C8436-9318-4C26-94F6-5A11105B212E}|AlphabetThing\\AlphabetThing.vcxproj|solutionrelative:AlphabetThing\\Alphabet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}|Maze\\Maze.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Maze\\MazeThing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB8CFF21-EE18-4899-8CFD-83114F13C2B2}|Maze\\Maze.vcxproj|solutionrelative:Maze\\MazeThing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D31EA17-5DA7-4560-AE23-368CE6E83B34}|Arrary\\Arrary.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Arrary\\ArrayStats.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Alphabet.cpp",
-              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\AlphabetThing\\Alphabet.cpp",
-              "RelativeDocumentMoniker": "AlphabetThing\\Alphabet.cpp",
-              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\AlphabetThing\\Alphabet.cpp",
-              "RelativeToolTip": "AlphabetThing\\Alphabet.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Title": "MazeThing.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Maze\\MazeThing.cpp",
+              "RelativeDocumentMoniker": "Maze\\MazeThing.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\GullibleUser\\Maze\\MazeThing.cpp",
+              "RelativeToolTip": "Maze\\MazeThing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-17T02:39:27.375Z",
+              "WhenOpened": "2025-03-19T23:26:15.029Z",
               "EditorCaption": ""
             },
             {
@@ -64,7 +64,8 @@
               "RelativeToolTip": "Lesson 4\\Gulliable.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-15T23:44:59.287Z"
+              "WhenOpened": "2025-03-15T23:44:59.287Z",
+              "EditorCaption": ""
             }
           ]
         }

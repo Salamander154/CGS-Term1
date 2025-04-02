@@ -1,17 +1,21 @@
 #include <iostream>
+#include <cctype>
 #include <fstream>
 using namespace std;
 
 int main()
 {
 	ifstream inFile("alphabet.txt");
-	ifstream outFile("finial.txt");
+	ofstream outFile;
 	char alp[26];
 	if (inFile.is_open())
 	{
 		for (int i = 0; i < 26; i++)
 		{
 			inFile >> alp[i];
+			alp[i] = toupper(alp[i]);
+			//cout << toupper(alp[i]);
+			cout << alp[i] << "\n";
 		}
 		inFile.close();
 	}
@@ -19,11 +23,12 @@ int main()
 	{
 		cout << "Error \n";
 	}
+	outFile.open("finial.txt", ios_base::app);
 	if (outFile.is_open())
 	{
 		for (int i = 0; i < 26; i++)
-		{
-			outFile << inFile;
+		{			
+			outFile << alp[i];
 		}
 		outFile.close();
 	}
@@ -31,5 +36,6 @@ int main()
 	{
 		cout << "Error \n";
 	}
-
+	
 }
+

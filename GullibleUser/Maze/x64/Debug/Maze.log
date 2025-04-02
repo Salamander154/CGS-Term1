@@ -1,0 +1,6 @@
+﻿  MazeThing.cpp
+D:\GitHub CG Projects\CGS-Term1\GullibleUser\Maze\MazeThing.cpp(25,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub CG Projects\CGS-Term1\GullibleUser\Maze\MazeThing.cpp(25,18): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub CG Projects\CGS-Term1\GullibleUser\Maze\MazeThing.cpp(26,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub CG Projects\CGS-Term1\GullibleUser\Maze\MazeThing.cpp(26,18): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Maze.vcxproj -> D:\GitHub CG Projects\CGS-Term1\GullibleUser\x64\Debug\Maze.exe
