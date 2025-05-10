@@ -1,0 +1,3 @@
+﻿  Work.cpp
+D:\GitHub CG Projects\CGS-Term1\Lesson 5\Lesson 5\Work.cpp(32,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lesson 5.vcxproj -> D:\GitHub CG Projects\CGS-Term1\Lesson 5\x64\Debug\StringReversal.exe

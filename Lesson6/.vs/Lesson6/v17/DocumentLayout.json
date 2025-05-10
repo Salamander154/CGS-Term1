@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C267A66-2D09-49FF-9AC8-EC9368C26206}|UsingStructs\\UsingStructs.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson6\\UsingStructs\\usingstructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C267A66-2D09-49FF-9AC8-EC9368C26206}|UsingStructs\\UsingStructs.vcxproj|solutionrelative:UsingStructs\\usingstructs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "usingstructs.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson6\\UsingStructs\\usingstructs.cpp",
+              "RelativeDocumentMoniker": "UsingStructs\\usingstructs.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson6\\UsingStructs\\usingstructs.cpp",
+              "RelativeToolTip": "UsingStructs\\usingstructs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T22:47:32.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
