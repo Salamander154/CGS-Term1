@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E7321E-2372-49F0-AA0D-BC6083912F0D}|Time\\Time.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\Time\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6E7321E-2372-49F0-AA0D-BC6083912F0D}|Time\\Time.vcxproj|solutionrelative:Time\\Timer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB838CF-5F5B-461B-849C-56D31FFA22DE}|Bubble\\Bubble.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\Bubble\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BB838CF-5F5B-461B-849C-56D31FFA22DE}|Bubble\\Bubble.vcxproj|solutionrelative:Bubble\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6107061-7EA6-40AA-8265-21258DD6064C}|IntSort\\IntSort.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\IntSort\\IntSorter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6107061-7EA6-40AA-8265-21258DD6064C}|IntSort\\IntSort.vcxproj|solutionrelative:IntSort\\IntSorter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8245A3-4644-4E7C-B654-772CF5354FFD}|BinSort\\BinSort.vcxproj|D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\BinSort\\BinSorter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B8245A3-4644-4E7C-B654-772CF5354FFD}|BinSort\\BinSort.vcxproj|solutionrelative:BinSort\\BinSorter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Timer.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\Time\\Timer.cpp",
+              "RelativeDocumentMoniker": "Time\\Timer.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\Time\\Timer.cpp",
+              "RelativeToolTip": "Time\\Timer.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T22:46:05.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinSorter.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\BinSort\\BinSorter.cpp",
+              "RelativeDocumentMoniker": "BinSort\\BinSorter.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\BinSort\\BinSorter.cpp",
+              "RelativeToolTip": "BinSort\\BinSorter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T22:45:09.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntSorter.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\IntSort\\IntSorter.cpp",
+              "RelativeDocumentMoniker": "IntSort\\IntSorter.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\IntSort\\IntSorter.cpp",
+              "RelativeToolTip": "IntSort\\IntSorter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T22:44:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\Bubble\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "Bubble\\BubbleSort.cpp",
+              "ToolTip": "D:\\GitHub CG Projects\\CGS-Term1\\Lesson 10\\Bubble\\BubbleSort.cpp",
+              "RelativeToolTip": "Bubble\\BubbleSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T22:43:11.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
